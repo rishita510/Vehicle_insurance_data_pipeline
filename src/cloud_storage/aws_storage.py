@@ -9,6 +9,9 @@ from src.exception import MyException
 from botocore.exceptions import ClientError
 from pandas import DataFrame,read_csv
 import pickle
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class SimpleStorageService:
