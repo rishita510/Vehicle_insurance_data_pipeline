@@ -163,6 +163,4 @@ cython_debug/
 
 artifact/
 
-# username_db:isroscience2_db_user
-# password_db:frQ3DjxhBeyzTNnv
-#db_connection_string:mongodb+srv://isroscience2_db_user:<db_password>@cluster0.skoj92w.mongodb.net/
+
